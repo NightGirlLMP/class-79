@@ -1,0 +1,12 @@
+body {
+    background-color: darkslateblue;
+}
+
+button {
+    background-color: darkviolet;
+    padding: 10px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 50px;
+    border-color: goldenrod;
+}
